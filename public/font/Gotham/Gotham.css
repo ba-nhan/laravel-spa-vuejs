@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'iCiel Gotham';
+    src: url('iCielGotham-Thin.woff2') format('woff2'),
+        url('iCielGotham-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iCiel Gotham';
+    src: url('iCielGotham-Medium.woff2') format('woff2'),
+        url('iCielGotham-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iCiel Gotham Ultra';
+    src: url('iCielGotham-Ultra.woff2') format('woff2'),
+        url('iCielGotham-Ultra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metrophobic';
+    src: url('Metrophobic-Regular.woff2') format('woff2'),
+        url('Metrophobic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

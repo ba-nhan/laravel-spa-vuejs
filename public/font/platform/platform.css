@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Platform Hairline';
+    src: url('iCielPlatform-Hairline.eot');
+    src: url('iCielPlatform-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('iCielPlatform-Hairline.woff2') format('woff2'),
+        url('iCielPlatform-Hairline.woff') format('woff'),
+        url('iCielPlatform-Hairline.ttf') format('truetype'),
+        url('iCielPlatform-Hairline.svg#iCielPlatform-Hairline') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('iCielPlatform-Regular.eot');
+    src: url('iCielPlatform-Regular.eot?#iefix') format('embedded-opentype'),
+        url('iCielPlatform-Regular.woff2') format('woff2'),
+        url('iCielPlatform-Regular.woff') format('woff'),
+        url('iCielPlatform-Regular.ttf') format('truetype'),
+        url('iCielPlatform-Regular.svg#iCielPlatform-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('iCielPlatform-Light.eot');
+    src: url('iCielPlatform-Light.eot?#iefix') format('embedded-opentype'),
+        url('iCielPlatform-Light.woff2') format('woff2'),
+        url('iCielPlatform-Light.woff') format('woff'),
+        url('iCielPlatform-Light.ttf') format('truetype'),
+        url('iCielPlatform-Light.svg#iCielPlatform-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('iCielPlatform-Regular_1.eot');
+    src: url('iCielPlatform-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('iCielPlatform-Regular_1.woff2') format('woff2'),
+        url('iCielPlatform-Regular_1.woff') format('woff'),
+        url('iCielPlatform-Regular_1.ttf') format('truetype'),
+        url('iCielPlatform-Regular_1.svg#iCielPlatform-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('iCielPlatform-Medium.eot');
+    src: url('iCielPlatform-Medium.eot?#iefix') format('embedded-opentype'),
+        url('iCielPlatform-Medium.woff2') format('woff2'),
+        url('iCielPlatform-Medium.woff') format('woff'),
+        url('iCielPlatform-Medium.ttf') format('truetype'),
+        url('iCielPlatform-Medium.svg#iCielPlatform-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('iCielPlatform-Bold.eot');
+    src: url('iCielPlatform-Bold.eot?#iefix') format('embedded-opentype'),
+        url('iCielPlatform-Bold.woff2') format('woff2'),
+        url('iCielPlatform-Bold.woff') format('woff'),
+        url('iCielPlatform-Bold.ttf') format('truetype'),
+        url('iCielPlatform-Bold.svg#iCielPlatform-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
